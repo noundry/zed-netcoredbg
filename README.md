@@ -8,11 +8,12 @@ Currently only support Mac arm64 and Linux AMD64 due to an upstream [issue with 
 
 ### Development Installation
 
-1. Clone this repository
-2. Open Zed
-3. Go to Extensions (Cmd+Shift+X on macOS)
-4. Click "Install Dev Extension"
-5. Select the cloned directory
+1. Install [rustup](https://rustup.rs/)
+2. Clone this repository
+3. Open Zed
+4. Go to Extensions (Cmd+Shift+X on macOS)
+5. Click "Install Dev Extension"
+6. Select the cloned directory
 
 ## Configuration
 
